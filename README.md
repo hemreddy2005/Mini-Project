@@ -19,10 +19,15 @@ A Hybrid Deep Learning and Medical Imaging Analysis System
 # Key Features :
 
 1.Classification of Normal vs Pneumonia X-ray images
+
 2.FastAI convolutional neural network for high accuracy
+
 3.MATLAB-based preprocessing and enhancement
+
 4.Visualization of suspected infected regions
+
 5.End-to-end pipeline from input to final prediction
+
 6.Clean and well-organized project structure
 
 # Technologies Used
@@ -66,9 +71,13 @@ Mini-Project/
 # Dataset :
 
 This project uses the Chest X-Ray Pneumonia Dataset, which contains two classes:
+
 1.NORMAL
+
 2.PNEUMONIA
+
 Due to size limitations, the dataset is not included in this repository.
+
 It can be downloaded from Kaggle or other medical imaging sources.
 
 # How to Run the Project :
@@ -110,6 +119,7 @@ These scripts enhance the X-ray image and highlight the infected lung areas.
 # Why FastAI + MATLAB ?
 
 FastAI provides a simple and powerful interface for training deep learning models.
+
 MATLAB provides reliable tools for medical-grade preprocessing and visualization.
 
 Using both results in:
