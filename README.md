@@ -7,9 +7,13 @@ A Hybrid Deep Learning and Medical Imaging Analysis System
 # Overview :
 
 1.Pneumonia is a serious lung infection that requires fast and accurate diagnosis.
+
 2.This project implements a hybrid AI-based system combining:
+
 3.FastAI (Deep Learning) for classifying chest X-ray images
+
 4.MATLAB (Medical Image Processing) for enhancing images and visualizing infected lung regions
+
 5.This approach improves diagnostic accuracy and interpretability, making it useful for medical research and educational purposes.
 
 # Key Features :
